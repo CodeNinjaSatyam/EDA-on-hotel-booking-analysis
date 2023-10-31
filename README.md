@@ -1,8 +1,6 @@
 # EDA-on-hotel-booking-analysis
 <!DOCTYPE html>
-<html>
-<head>
-    <title>Hotel Bookings Exploratory Data Analysis</title>
+
 </head>
 <body>
     <h1>Hotel Bookings Exploratory Data Analysis</h1>
